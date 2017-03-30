@@ -10,8 +10,7 @@ Without needs to change selectors.
 
 ### How do I get configured ###
 test.properties file allows to configure browser by setting appropriate browser id: e.g.: 4 for internet Explorer.
-See more at test.properties
-For configuring running
+See more at test.properties For configuring execution
 
 ### RoadMap ###
 
